@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm araluce
+
+👨‍💻 I’m currently working as a Ruby on Rails 💎 at Crisalix.
 
 [![@araluce's Holopin board](https://holopin.me/araluce)](https://holopin.io/@araluce)
 

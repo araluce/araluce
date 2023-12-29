@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is araluce ======================================================================================================================================  Senior RoR developer --------------------  * 🌍  I'm based in Sevilla (Spain) * ✉️  You can contact me at [araluce11@gmail.com](mailto:araluce11@gmail.com) * 🚀  I'm currently working as RoR developer at [Crisalix](http://crisalix.com)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is araluce
+Senior RoR developer
+-------------------- 
+* 🌍  I'm based in Sevilla (Spain)
+* ✉️  You can contact me at [araluce11@gmail.com](mailto:araluce11@gmail.com)
+* 🚀  I'm currently working as RoR developer at [Crisalix](http://crisalix.com)
 
 ### Skills  
 

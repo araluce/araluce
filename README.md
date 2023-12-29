@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 #### Senior RoR developer
 
-* 🌍  I'm based in Sevilla (Spain)
-* ✉️  You can contact me at [araluce11@gmail.com](mailto:araluce11@gmail.com)
-* 🚀  I'm currently working as RoR developer at [Crisalix](http://crisalix.com)
+- 🌍  I'm based in Sevilla (Spain)
+- ✉️  You can contact me at [araluce11@gmail.com](mailto:araluce11@gmail.com)
+- 🚀  I'm currently working as RoR developer at [Crisalix](http://crisalix.com)
 
 #### Skills
 

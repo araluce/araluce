@@ -1,5 +1,5 @@
 <!--
-### Hi there 👋 I'm araluce
+### Hi there 👋I'm araluce
 
 👨‍💻 I’m currently working as a Ruby on Rails 💎 developer at Crisalix.
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm araluce
+### Hi there 👋 I'm araluce
 
 #### Senior RoR developer
 

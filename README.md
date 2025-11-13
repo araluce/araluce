@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 🌍  I'm based in Spain
 - ✉️  You can contact me at [araluce11@gmail.com](mailto:araluce11@gmail.com)
 - 🚀  I'm currently working as Ruby on Rails developer at [Crisalix](http://crisalix.com)
+- ⭐️  My [LinkedIn](https://www.linkedin.com/in/araluce)
 
 #### Skills
 

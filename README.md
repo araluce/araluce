@@ -9,7 +9,7 @@
 **araluce/araluce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🌍  I'm based in ...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 #### Senior RoR developer
 
-- 🌍  I'm based in Sevilla (Spain)
+- 🌍  I'm based in Spain
 - ✉️  You can contact me at [araluce11@gmail.com](mailto:araluce11@gmail.com)
-- 🚀  I'm currently working as RoR developer at [Crisalix](http://crisalix.com)
+- 🚀  I'm currently working as Ruby on Rails developer at [Crisalix](http://crisalix.com)
 
 #### Skills
 
